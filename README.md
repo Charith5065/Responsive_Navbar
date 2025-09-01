@@ -6,7 +6,7 @@
   </p>
 
   <!-- Social Icons -->
-  <p>
+ <p>
      <a href="https://www.tiktok.com/@chula.code.hub?_t=ZS-8yhsKqlHPJl&_r=1">
     <img src="https://cdn-icons-png.flaticon.com/128/15713/15713399.png" alt="TikTok" width="50"/>
   </a>
@@ -25,7 +25,7 @@
 <div align="center">
   <h2>🌟 The Final Look 🌟</h2>
   <br />
-  <img src="Employee+Green+Team+3" alt="Project Preview" width="600" style="border-radius:20px;box-shadow:0px 4px 12px rgba(0,0,0,0.2);" />
+  <img src="Screenshot 2025-09-01 210432" alt="Project Preview" width="600" style="border-radius:20px;box-shadow:0px 4px 12px rgba(0,0,0,0.2);" />
 </div>
 
 ---
@@ -33,10 +33,10 @@
 <!-- Tech Badges -->
 <div align="center">
 
-<!---### 🔧 Built With  
+### 🔧 Built With  
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)  
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)  -->
-<!--![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  --->
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
 
 </div>
 
