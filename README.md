@@ -25,7 +25,7 @@
 <div align="center">
   <h2>🌟 The Final Look 🌟</h2>
   <br />
-  <img src="Screenshot 2025-09-01 210432" alt="Project Preview" width="600" style="border-radius:20px;box-shadow:0px 4px 12px rgba(0,0,0,0.2);" />
+  <img src="Screenshot 2025-09-01 210432.png" alt="Project Preview" width="600" style="border-radius:20px;box-shadow:0px 4px 12px rgba(0,0,0,0.2);" />
 </div>
 
 ---
